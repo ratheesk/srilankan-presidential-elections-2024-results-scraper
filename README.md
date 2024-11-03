@@ -8,6 +8,10 @@
 
 This repository contains a Python-based web scraper developed for collecting and processing the official 2024 Sri Lankan Presidential Election results. It provides a way to gather real-time data on election outcomes across Sri Lanka’s districts, helping to facilitate further analysis and visualization.
 
+## Guide
+
+Please refer this [tutorial](https://ratheesk.github.io/election-scraper-dashboard-guide/) for learning the devlopment process of the scraper.
+
 ## Features
 
 - **Automated Data Collection**: Efficiently collects election results from verified sources.

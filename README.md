@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/ratheesk/srilankan-presidential-elections-2024-results-scraper)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ratheesk/srilankan-presidential-elections-2024-results-scraper)
 
-This repository contains a Python-based web scraper developed for collecting and processing the official 2024 Sri Lankan Presidential Election results. It provides a way to gather real-time data on election outcomes across Sri Lanka’s districts, helping to facilitate further analysis and visualization.
+This repository contains a Python-based web scraper developed for collecting and processing the official 2024 Sri Lankan Presidential Election results. It provides a way to gather data on election outcomes across Sri Lanka’s districts, helping to facilitate further analysis and visualization.
 
 ## Guide
 
@@ -23,7 +23,6 @@ Please refer this [tutorial](https://ratheesk.github.io/election-scraper-dashboa
 Data for this project is sourced from:
 
 - [Official Election Commission Website](https://elections.gov.lk)
-- Verified news outlets and official sources for election results.
 
 ## Disclaimer
 
